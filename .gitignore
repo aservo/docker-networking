@@ -11,10 +11,6 @@ log/
 temp/
 tmp/
 
-# Node.js
-package-lock.json
-node_modules/
-
 # IDEs and tools
 *.bin
 .vscode/
