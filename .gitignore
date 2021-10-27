@@ -1,0 +1,24 @@
+# General
+*.log
+*.pid
+*.swp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+logs/
+log/
+temp/
+tmp/
+
+# Node.js
+package-lock.json
+node_modules/
+
+# IDEs and tools
+*.bin
+.vscode/
+.idea/
+.idea_modules/
+target/
+out/
