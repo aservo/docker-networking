@@ -2,7 +2,7 @@ FROM ubuntu:20.04
 
 RUN \
     apt-get update && \
-    apt-get -y install \
+    apt-get --no-install-recommends --yes install \
         ca-certificates \
         vim emacs-nox nano \
         jq \
