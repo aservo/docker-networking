@@ -18,3 +18,19 @@ tmp/
 .idea_modules/
 target/
 out/
+
+# Helm
+Chart.lock
+
+# Packages
+*.jar
+*.ear
+*.war
+*.tar
+*.bz2
+*.gz
+*.zip
+*.7z
+*.rar
+*.iso
+*.tgz
