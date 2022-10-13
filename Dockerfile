@@ -11,6 +11,7 @@ RUN \
         tar gzip bzip2 zip unzip p7zip \
         openssh-client \
         openssl \
+        gnupg \
         git \
         curl \
         wget \
@@ -30,6 +31,7 @@ RUN \
         traceroute \
         tcptraceroute \
         whois \
+        ldap-utils \
         postgresql-client \
         nettle-bin \
         && \
